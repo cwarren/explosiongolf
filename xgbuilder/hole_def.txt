@@ -1,0 +1,23 @@
+# Hole Definition
+
+title = 'Practice Hole'
+roughs = [(x,y),(x,y),(x,y),(x,y),...];[(x,y),(x,y),(x,y),(x,y),...];...
+fairways = [(x,y),(x,y),(x,y),(x,y),...];[(x,y),(x,y),(x,y),(x,y),...];...
+traps = [(x,y),(x,y),(x,y),(x,y),...];[(x,y),(x,y),(x,y),(x,y),...];...
+
+tee = (x,y),(x,y),(x,y),(x,y),...
+green = (x,y),(x,y),(x,y),(x,y),...
+
+flag = (x,y)
+
+structures = [(x,y),(x,y),(x,y),(x,y),...:COLOR];[(x,y),(x,y),(x,y),(x,y),...:COLOR];...
+
+bushes = [(x,y,r,TYPE),(x,y,r,TYPE),(x,y,r,TYPE),(x,y,r,TYPE),...]
+trees = [(x,y,r,TYPE),(x,y,r,TYPE),(x,y,r,TYPE),(x,y,r,TYPE),...]
+    
+par = a
+    
+putter = b
+wedge = c
+iron = d
+driver = e

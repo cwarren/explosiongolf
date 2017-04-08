@@ -1,0 +1,359 @@
+DRIVER
+
+RnD: at ticks 5 dist is 77.26485471104962 game_objects.js:377
+RnD: at ticks 10 dist is 240.78596802903692 game_objects.js:377
+TO DO: have the bounce at (624.3865950812793,595.6932975406395) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 147.16900198618842 game_objects.js:357
+RnD: at ticks 15 dist is 323.76792514955525 game_objects.js:377
+TO DO: have the bounce at (755.2581867555676,663.0085382982055) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 88.30140119171303 game_objects.js:357
+RnD: at ticks 20 dist is 404.2170196286561 game_objects.js:377
+RnD: at ticks 25 dist is 463.079655085354 game_objects.js:377
+TO DO: have the bounce at (834.6296765372159,701.7035517012471) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 52.98084071502783 game_objects.js:357
+RnD: at ticks 30 dist is 501.9271989438118 game_objects.js:377
+TO DO: have the bounce at (882.4302189839146,724.5525697254972) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 31.788504429016704 game_objects.js:357
+RnD: at ticks 35 dist is 533.7105418873294 game_objects.js:377
+RnD: at ticks 40 dist is 554.9028604264956 game_objects.js:377
+TO DO: have the bounce at (910.8478188096639,738.7985879052269) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 19.073102657409997 game_objects.js:357
+RnD: at ticks 45 dist is 570.5841618960868 game_objects.js:377
+RnD: at ticks 50 dist is 583.2970938886805 game_objects.js:377
+TO DO: have the bounce at (928.0769951107911,746.9801970968697) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 11.443861594445982 game_objects.js:357
+RnD: at ticks 55 dist is 590.6684992980587 game_objects.js:377
+TO DO: have the bounce at (938.48000813741,751.748770065886) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 6.866316956667556 
+
+
+
+RnD: at ticks 5 dist is 77.26485471104971 game_objects.js:377
+RnD: at ticks 10 dist is 240.78596802903704 game_objects.js:377
+TO DO: have the bounce at (702.0885108089108,686.3105731356018) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 147.16900198618845 game_objects.js:357
+RnD: at ticks 15 dist is 323.7705139203868 game_objects.js:377
+TO DO: have the bounce at (560.5153596793552,646.1140804420995) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 88.30140119171308 game_objects.js:357
+RnD: at ticks 20 dist is 404.22106352995957 game_objects.js:377
+RnD: at ticks 25 dist is 463.0838658774822 game_objects.js:377
+TO DO: have the bounce at (475.81586007802935,621.1514639986083) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 52.98084071502784 game_objects.js:357
+RnD: at ticks 30 dist is 501.8962431359723 game_objects.js:377
+TO DO: have the bounce at (425.81754236878555,603.6261192340488) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 31.788504429016715 game_objects.js:357
+RnD: at ticks 35 dist is 533.6320113124928 game_objects.js:377
+RnD: at ticks 40 dist is 554.824267669165 game_objects.js:377
+TO DO: have the bounce at (395.3030259971967,594.7169495509835) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 19.073102657410022 game_objects.js:357
+RnD: at ticks 45 dist is 570.4618873293161 game_objects.js:377
+RnD: at ticks 50 dist is 583.06900509271 game_objects.js:377
+TO DO: have the bounce at (377.84625103438435,587.0329237260771) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 11.443861594445993 game_objects.js:357
+RnD: at ticks 55 dist is 590.3537722057993 game_objects.js:377
+TO DO: have the bounce at (367.53309696345167,582.0730022244765) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 6.8663169566675935 game_objects.js:357
+
+
+
+RnD: at ticks 5 dist is 77.26485471104957 game_objects.js:377
+RnD: at ticks 10 dist is 240.78596802903675 game_objects.js:377
+TO DO: have the bounce at (612.7129703501055,589.1389284058777) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 147.16900198618856 game_objects.js:357
+RnD: at ticks 15 dist is 323.7717898548309 game_objects.js:377
+TO DO: have the bounce at (759.8178962343443,593.4812695029585) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 88.30140119171317 game_objects.js:357
+RnD: at ticks 20 dist is 404.2241553153277 game_objects.js:377
+RnD: at ticks 25 dist is 463.091695287002 game_objects.js:377
+TO DO: have the bounce at (848.0778023671088,596.1880058875134) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 52.980840715027874 game_objects.js:357
+RnD: at ticks 30 dist is 501.94429608252045 game_objects.js:377
+TO DO: have the bounce at (901.0361053432819,597.733201265133) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 31.788504429016733 game_objects.js:357
+RnD: at ticks 35 dist is 533.7327999892101 game_objects.js:377
+RnD: at ticks 40 dist is 554.9251352203827 game_objects.js:377
+TO DO: have the bounce at (932.8106219407406,598.6761269416508) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 19.073102657410043 game_objects.js:357
+RnD: at ticks 45 dist is 570.6074632559113 game_objects.js:377
+RnD: at ticks 50 dist is 583.3228642559377 game_objects.js:377
+TO DO: have the bounce at (951.8753025873712,599.2428692306061) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 11.443861594445998 game_objects.js:357
+RnD: at ticks 55 dist is 590.6977941016531 game_objects.js:377
+TO DO: have the bounce at (963.3138804416869,599.5905829973648) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 6.86631695666762 game_objects.js:357
+
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+
+IRON
+
+
+RnD: at ticks 5 dist is 46.8219289716547 game_objects.js:377
+RnD: at ticks 10 dist is 154.47495304570975 game_objects.js:377
+TO DO: have the bounce at (567.7219773375275,488) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 98.8331864025165 game_objects.js:357
+RnD: at ticks 15 dist is 217.43301008553613 game_objects.js:377
+TO DO: have the bounce at (666.555163740044,488) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 59.299911841509896 game_objects.js:357
+RnD: at ticks 20 dist is 271.46181865224537 game_objects.js:377
+RnD: at ticks 25 dist is 310.9950932132522 game_objects.js:377
+TO DO: have the bounce at (725.8550755815539,488) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 35.579947104905955 game_objects.js:357
+RnD: at ticks 30 dist is 337.0870544235162 game_objects.js:377
+TO DO: have the bounce at (761.4350226864599,488) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 21.34796826294357 game_objects.js:357
+RnD: at ticks 35 dist is 358.4350226864599 game_objects.js:377
+RnD: at ticks 40 dist is 372.667001528422 game_objects.js:377
+TO DO: have the bounce at (782.7829909494035,488) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 12.808780957766157 game_objects.js:357
+RnD: at ticks 45 dist is 383.19866587147453 game_objects.js:377
+RnD: at ticks 50 dist is 391.73785317665215 game_objects.js:377
+TO DO: have the bounce at (795.5917719071697,488) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 7.685268574659721 game_objects.js:357
+RnD: at ticks 55 dist is 396.69058181365494 game_objects.js:377
+TO DO: have the bounce at (803.2770404818294,488) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 4.6111611447958465 
+
+
+RnD: at ticks 5 dist is 46.82192897165477 game_objects.js:377
+RnD: at ticks 10 dist is 154.47495304570975 game_objects.js:377
+TO DO: have the bounce at (564.3318154859567,458.3340922570217) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 98.83318640251659 game_objects.js:357
+RnD: at ticks 15 dist is 217.43237215713086 game_objects.js:377
+TO DO: have the bounce at (652.9793273820902,414.6349232820921) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 59.29991184150996 game_objects.js:357
+RnD: at ticks 20 dist is 271.45954536842487 game_objects.js:377
+RnD: at ticks 25 dist is 310.98736865552917 game_objects.js:377
+TO DO: have the bounce at (705.5825344929191,387.2600781489028) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 35.579947104905976 game_objects.js:357
+RnD: at ticks 30 dist is 337.0713987021837 game_objects.js:377
+TO DO: have the bounce at (736.8764366223328,370.33009511575756) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 21.347968262943603 game_objects.js:357
+RnD: at ticks 35 dist is 358.41050884632455 game_objects.js:377
+RnD: at ticks 40 dist is 372.6402126758437 game_objects.js:377
+TO DO: have the bounce at (755.7504810815095,360.3548159362726) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 12.808780957766144 game_objects.js:357
+RnD: at ticks 45 dist is 383.16993057262914 game_objects.js:377
+RnD: at ticks 50 dist is 391.70700226996274 game_objects.js:377
+TO DO: have the bounce at (767.0418042666732,354.307428868107) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 7.685268574659669 game_objects.js:357
+RnD: at ticks 55 dist is 396.6577132303752 game_objects.js:377
+TO DO: have the bounce at (773.7876658968918,350.625485912194) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 4.611161144795835 
+
+RnD: at ticks 5 dist is 46.8219289716547 game_objects.js:377
+RnD: at ticks 10 dist is 154.47495304570975 game_objects.js:377
+TO DO: have the bounce at (577.7219773375275,490) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 98.8331864025165 game_objects.js:357
+RnD: at ticks 15 dist is 217.43301008553613 game_objects.js:377
+TO DO: have the bounce at (676.555163740044,490) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 59.299911841509896 game_objects.js:357
+RnD: at ticks 20 dist is 271.46181865224537 game_objects.js:377
+RnD: at ticks 25 dist is 310.9950932132522 game_objects.js:377
+TO DO: have the bounce at (735.8550755815539,490) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 35.579947104905955 game_objects.js:357
+RnD: at ticks 30 dist is 337.0870544235162 game_objects.js:377
+TO DO: have the bounce at (771.4350226864599,490) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 21.34796826294357 game_objects.js:357
+RnD: at ticks 35 dist is 358.4350226864599 game_objects.js:377
+RnD: at ticks 40 dist is 372.667001528422 game_objects.js:377
+TO DO: have the bounce at (792.7829909494035,490) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 12.808780957766157 game_objects.js:357
+RnD: at ticks 45 dist is 383.19866587147453 game_objects.js:377
+RnD: at ticks 50 dist is 391.73785317665215 game_objects.js:377
+TO DO: have the bounce at (805.5917719071697,490) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 7.685268574659721 game_objects.js:357
+RnD: at ticks 55 dist is 396.69058181365494 game_objects.js:377
+TO DO: have the bounce at (813.2770404818294,490) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 4.6111611447958465 game_objects.js:357
+
+
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+
+WEDGE
+
+RnD: at ticks 5 dist is 22.234486980522547 game_objects.js:381
+RnD: at ticks 10 dist is 76.83648596855011 game_objects.js:381
+TO DO: have the bounce at (503.3138949235754,486) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:442
+RnD: stage distance is 54.188336954145235 game_objects.js:361
+RnD: at ticks 15 dist is 101.15156231440449 game_objects.js:381
+RnD: at ticks 20 dist is 119.21434129911984 game_objects.js:381
+RnD: at ticks 25 dist is 137.2771202838352 game_objects.js:381
+TO DO: have the bounce at (557.5022318777206,486) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:442
+RnD: stage distance is 32.513002172487155 game_objects.js:361
+RnD: at ticks 30 dist is 151.00483231221824 game_objects.js:381
+RnD: at ticks 35 dist is 161.84249970304757 game_objects.js:381
+RnD: at ticks 40 dist is 172.6801670938769 game_objects.js:381
+TO DO: have the bounce at (590.0152340502078,486) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:442
+RnD: stage distance is 19.507801303492304 game_objects.js:361
+RnD: at ticks 45 dist is 180.9167943109063 game_objects.js:381
+RnD: at ticks 50 dist is 187.4193947454038 game_objects.js:381
+RnD: at ticks 55 dist is 193.92199517990127 game_objects.js:381
+TO DO: have the bounce at (609.5230353537002,486) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:442
+RnD: stage distance is 11.704680782095396 
+
+RnD: at ticks 5 dist is 22.234486980522547 game_objects.js:381
+RnD: at ticks 10 dist is 76.83648596855011 game_objects.js:381
+TO DO: have the bounce at (495.3138949235754,488) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:442
+RnD: stage distance is 54.188336954145235 game_objects.js:361
+RnD: at ticks 15 dist is 101.15156231440443 game_objects.js:381
+RnD: at ticks 20 dist is 119.21434129911972 game_objects.js:381
+RnD: at ticks 25 dist is 137.27712028383507 game_objects.js:381
+TO DO: have the bounce at (549.5022318777206,488) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:442
+RnD: stage distance is 32.513002172487155 game_objects.js:361
+RnD: at ticks 30 dist is 151.00483231221824 game_objects.js:381
+RnD: at ticks 35 dist is 161.84249970304757 game_objects.js:381
+RnD: at ticks 40 dist is 172.6801670938769 game_objects.js:381
+TO DO: have the bounce at (582.0152340502078,488) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:442
+RnD: stage distance is 19.507801303492304 game_objects.js:361
+RnD: at ticks 45 dist is 180.9167943109063 game_objects.js:381
+RnD: at ticks 50 dist is 187.4193947454038 game_objects.js:381
+RnD: at ticks 55 dist is 193.92199517990127 game_objects.js:381
+TO DO: have the bounce at (601.5230353537002,488) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:442
+RnD: stage distance is 11.704680782095396 
+
+RnD: at ticks 5 dist is 22.234486980522547 game_objects.js:381
+RnD: at ticks 10 dist is 76.83648596855011 game_objects.js:381
+TO DO: have the bounce at (409,391.6861050764246) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:442
+RnD: stage distance is 54.188336954145235 game_objects.js:361
+RnD: at ticks 15 dist is 101.13918595524996 game_objects.js:381
+RnD: at ticks 20 dist is 119.18633664772592 game_objects.js:381
+RnD: at ticks 25 dist is 137.23759951493182 game_objects.js:381
+TO DO: have the bounce at (406.26027995857027,337.56707149349216) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:442
+RnD: stage distance is 32.513002172487134 game_objects.js:361
+RnD: at ticks 30 dist is 150.956169033218 game_objects.js:381
+RnD: at ticks 35 dist is 161.78588669864786 game_objects.js:381
+RnD: at ticks 40 dist is 172.61660224178448 game_objects.js:381
+TO DO: have the bounce at (406.9908955922257,305.06227936888365) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:442
+RnD: stage distance is 19.507801303492283 game_objects.js:361
+RnD: at ticks 45 dist is 179.54920987396758 game_objects.js:381
+RnD: at ticks 50 dist is 186.04953456812362 game_objects.js:381
+RnD: at ticks 55 dist is 192.55001294335517 game_objects.js:381
+TO DO: have the bounce at (406.2364773126923,285.5690711989584) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:442
+RnD: stage distance is 11.704680782095362 
+
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+
+PUTTER
+
+RnD: at ticks 5 dist is 13.989368026683007 game_objects.js:377
+RnD: at ticks 10 dist is 47.97336533533318 game_objects.js:377
+TO DO: have the bounce at (353.31731938829915,525.6826806117008) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 33.6718710674323 game_objects.js:357
+RnD: at ticks 15 dist is 69.5878354938378 game_objects.js:377
+TO DO: have the bounce at (329.7791693630014,549.7606870609142) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 20.203122640459384 game_objects.js:357
+RnD: at ticks 20 dist is 89.79030371321775 game_objects.js:377
+RnD: at ticks 25 dist is 103.25818245370661 game_objects.js:377
+TO DO: have the bounce at (315.3804948194327,563.9326430237949) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 12.121873584275635 game_objects.js:357
+RnD: at ticks 30 dist is 113.22350883591277 game_objects.js:377
+RnD: at ticks 35 dist is 121.30205469760807 game_objects.js:377
+TO DO: have the bounce at (306.59288517093233,572.2823577410018) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 7.27312415056536 
+
+RnD: at ticks 5 dist is 13.989368026683115 game_objects.js:377
+RnD: at ticks 10 dist is 47.973365335333334 game_objects.js:377
+TO DO: have the bounce at (357.2601795143878,596.41233007779) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 33.67187106743234 game_objects.js:357
+RnD: at ticks 15 dist is 69.58765559022824 game_objects.js:377
+TO DO: have the bounce at (387.8421739300848,610.5026288233831) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 20.2031226404594 game_objects.js:357
+RnD: at ticks 20 dist is 89.78995514799448 game_objects.js:377
+RnD: at ticks 25 dist is 103.25723179682377 game_objects.js:377
+TO DO: have the bounce at (406.2576428752783,618.8114595446133) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 12.121873584275642 game_objects.js:357
+RnD: at ticks 30 dist is 113.22340670892535 game_objects.js:377
+RnD: at ticks 35 dist is 121.30443317229084 game_objects.js:377
+TO DO: have the bounce at (417.2005870791269,624.0260344404812) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 7.273124150565382 game_objects.js:357
+
+RnD: at ticks 5 dist is 13.989368026682994 game_objects.js:377
+RnD: at ticks 10 dist is 47.97336533533324 game_objects.js:377
+TO DO: have the bounce at (427.96802753656704,679.1031849391771) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 33.671871067432335 game_objects.js:357
+RnD: at ticks 15 dist is 69.58822138748722 game_objects.js:377
+TO DO: have the bounce at (434.1777735182638,712.1975040290843) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 20.203122640459426 game_objects.js:357
+RnD: at ticks 20 dist is 89.79105138488559 game_objects.js:377
+RnD: at ticks 25 dist is 103.23456122669862 game_objects.js:377
+TO DO: have the bounce at (436.68781047050464,732.2440967301851) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 12.121873584275658 game_objects.js:357
+RnD: at ticks 30 dist is 113.19097775797982 game_objects.js:377
+RnD: at ticks 35 dist is 121.27187669879721 game_objects.js:377
+TO DO: have the bounce at (438.7176581688494,744.1948095756469) affected by the terrain game_objects.js:349
+hook for bounce sound game_objects.js:438
+RnD: stage distance is 7.2731241505654225 
